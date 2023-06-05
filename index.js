@@ -1,5 +1,5 @@
-function isWds(string) {
-  return string === "WDS"
+function testString(string) {
+  return string === "NPM Package Test"
 }
 
-module.exports = isWds
+module.exports = testString
